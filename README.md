@@ -1,1 +1,1 @@
-# 
+# Various object detection techniques
